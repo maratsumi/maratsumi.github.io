@@ -25,7 +25,7 @@ const Home = () => {
             className="text-white border-2 px-6 py-3 my-2 mx-auto flex items-center hover:bg-[#e46fd8] hover:border-[#e46fd8] transition ease-in-out duration-300"
             style={{ borderRadius: "16px" }}
           >
-            More About Me <FaRegArrowAltCircleRight className="ml-3" />
+            Read More <FaRegArrowAltCircleRight className="ml-3" />
           </button>
         </div>
       </div>
