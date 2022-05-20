@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import Logo from "../assets/placeholder.png";
+import { Link } from "react-scroll";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -18,28 +19,36 @@ const Navbar = () => {
       <div>
         <ul className="hidden md:flex">
           <li
-            className="hover:bg-[#282b2e] transition ease-in-out duration-200"
+            className="hover:bg-[#282b2e] transition ease-in-out duration-300"
             style={{ borderRadius: "8px" }}
           >
-            Home
+            <Link to="home" smooth={true} duration={500}>
+              Home
+            </Link>
           </li>
           <li
-            className="hover:bg-[#282b2e] transition ease-in-out duration-200"
+            className="hover:bg-[#282b2e] transition ease-in-out duration-300"
             style={{ borderRadius: "8px" }}
           >
-            About
+            <Link to="about" smooth={true} duration={500}>
+              About
+            </Link>
           </li>
           <li
-            className="hover:bg-[#282b2e] transition ease-in-out duration-200"
+            className="hover:bg-[#282b2e] transition ease-in-out duration-300"
             style={{ borderRadius: "8px" }}
           >
-            Work
+            <Link to="works" smooth={true} duration={500}>
+              Works
+            </Link>
           </li>
           <li
-            className="hover:bg-[#282b2e] transition ease-in-out duration-200"
+            className="hover:bg-[#282b2e] transition ease-in-out duration-300"
             style={{ borderRadius: "8px" }}
           >
-            Socials
+            <Link to="socials" smooth={true} duration={500}>
+              Socials
+            </Link>
           </li>
         </ul>
       </div>
@@ -55,10 +64,26 @@ const Navbar = () => {
             : "absolute top-0 left-0 w-full h-screen bg-[#1a1d20] flex flex-col justify-center items-center"
         }
       >
-        <li className="py-5 text-3xl">Home</li>
-        <li className="py-5 text-3xl">About</li>
-        <li className="py-5 text-3xl">Work</li>
-        <li className="py-5 text-3xl">Contact</li>
+        <li className="py-5 text-3xl">
+          <Link onClick={handleClick} to="home" smooth={true} duration={500}>
+            Home
+          </Link>
+        </li>
+        <li className="py-5 text-3xl">
+          <Link onClick={handleClick} to="about" smooth={true} duration={500}>
+            About
+          </Link>
+        </li>
+        <li className="py-5 text-3xl">
+          <Link onClick={handleClick} to="works" smooth={true} duration={500}>
+            Works
+          </Link>
+        </li>
+        <li className="py-5 text-3xl">
+          <Link onClick={handleClick} to="socials" smooth={true} duration={500}>
+            Socials
+          </Link>
+        </li>
       </ul>
     </div>
   );

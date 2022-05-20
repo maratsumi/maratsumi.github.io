@@ -1,5 +1,6 @@
 import React from "react";
 import { FaRegArrowAltCircleRight } from "react-icons/fa";
+import { Link } from "react-scroll";
 
 const Home = () => {
   return (
@@ -11,22 +12,19 @@ const Home = () => {
         <h2 className="text-[#fcbbd3] text-2xl sm:text-xl font-bold text-center">
           Any Pronouns | Eng/Fil ok!
         </h2>
-        <p className="text-[#ebebeb] text-3xl sm:text-xl py-6 max-w-[936px] text-center">
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum."
+        <p className="text-gray-100 text-3xl sm:text-xl py-6 max-w-[936px] text-center">
+          Heyo ! Welcome to my website ! Currently, Im still working on this
+          website and will keep updating it as I go !
         </p>
         <div>
-          <button
-            className="text-white border-2 px-6 py-3 my-2 mx-auto flex items-center hover:bg-[#e46fd8] hover:border-[#e46fd8] transition ease-in-out duration-300"
-            style={{ borderRadius: "16px" }}
-          >
-            Read More <FaRegArrowAltCircleRight className="ml-3" />
-          </button>
+          <Link to="about" smooth={true} duration={500}>
+            <button
+              className="text-white border-2 px-6 py-3 my-2 mx-auto flex items-center hover:bg-[#e07ad6] hover:border-[#e07ad6] transition ease-in-out duration-300"
+              style={{ borderRadius: "16px" }}
+            >
+              Read More <FaRegArrowAltCircleRight className="ml-3" />
+            </button>
+          </Link>
         </div>
       </div>
     </div>

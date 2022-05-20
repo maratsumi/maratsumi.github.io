@@ -13,3 +13,19 @@
     @apply cursor-pointer;
   }
 }
+
+.content-div {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  width: auto;
+}
+
+.content-div:hover {
+  background-image: linear-gradient(
+    245deg,
+    rgba(231, 118, 137, 0.8),
+    rgba(87, 60, 67, 0.8)
+  );
+}
