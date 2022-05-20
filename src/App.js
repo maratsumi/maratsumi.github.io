@@ -13,6 +13,9 @@ function App() {
       <About />
       <Work />
       <Socials />
+      <footer className="bg-[#1f2429] text-gray-200 pl-1 text-sm">
+        Maratsumi © 2022
+      </footer>
     </div>
   );
 }
