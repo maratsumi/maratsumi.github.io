@@ -39,7 +39,7 @@ const Navbar = () => {
             className="hover:bg-[#282b2e] transition ease-in-out duration-200"
             style={{ borderRadius: "8px" }}
           >
-            Contact
+            Socials
           </li>
         </ul>
       </div>
