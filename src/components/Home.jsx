@@ -14,7 +14,7 @@ const Home = () => {
         </h2>
         <p className="text-gray-100 text-3xl sm:text-xl py-6 max-w-[936px] text-center">
           Heyo ! Welcome to my website ! Currently, Im still working on this
-          website and will keep updating it as I go !
+          website and will keep updating it as I go.
         </p>
         <div>
           <Link to="about" smooth={true} duration={500}>
