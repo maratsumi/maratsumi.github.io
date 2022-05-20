@@ -52,7 +52,7 @@ const Work = () => {
                     href="https://github.com/maratsumi/Student-Information-System-CIIT-QA"
                     target="_blank"
                   >
-                    <button className="rounded-lg border-2 px-6 py-1">
+                    <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 transform hover:scale-105 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
                       Code
                     </button>
                   </a>
