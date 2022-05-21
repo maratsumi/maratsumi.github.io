@@ -6,7 +6,7 @@ import { FaYoutube } from "react-icons/fa";
 
 const Socials = () => {
   return (
-    <div name="socials" className="bg-[#1f2429] text-gray-100">
+    <div name="socials" className="w-full h-full bg-[#1f2429] text-gray-100">
       <div>
         <div className="max-w-[1000px] mx-auto p-5 flex flex-col justify-center w-full h-full">
           <div className="pb-8">
