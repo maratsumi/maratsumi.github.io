@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/maratsumi.github.io-WIP/static/css/main.433dbc64.css",
+    "main.js": "/maratsumi.github.io-WIP/static/js/main.afb66827.js",
+    "static/media/placeholder.png": "/maratsumi.github.io-WIP/static/media/placeholder.7cfa6c0a5087904b19c8.png",
+    "static/media/tarkovisfunthumb.png": "/maratsumi.github.io-WIP/static/media/tarkovisfunthumb.2bc8c673a78e8a985e77.png",
+    "static/media/redothumbnail.png": "/maratsumi.github.io-WIP/static/media/redothumbnail.f9318f5cea7430fe4219.png",
+    "static/media/StudentInformationSystem.png": "/maratsumi.github.io-WIP/static/media/StudentInformationSystem.53a4e4c3c00578f8de30.png",
+    "index.html": "/maratsumi.github.io-WIP/index.html",
+    "main.433dbc64.css.map": "/maratsumi.github.io-WIP/static/css/main.433dbc64.css.map",
+    "main.afb66827.js.map": "/maratsumi.github.io-WIP/static/js/main.afb66827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.433dbc64.css",
+    "static/js/main.afb66827.js"
+  ]
+}
