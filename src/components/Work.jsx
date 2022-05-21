@@ -12,7 +12,8 @@ const Work = () => {
             Works
           </h1>
           <h2 className="py-6 text-xl">
-            These are works I have completed, be it programming or videos.
+            Here are some of the works I have completed, be it programming,
+            videos, etc.
           </h2>
         </div>
 
