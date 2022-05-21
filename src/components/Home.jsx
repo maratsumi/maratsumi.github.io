@@ -1,5 +1,5 @@
 import React from "react";
-import { FaRegArrowAltCircleRight } from "react-icons/fa";
+import { BsChevronDoubleRight } from "react-icons/bs";
 import { Link } from "react-scroll";
 
 const Home = () => {
@@ -22,7 +22,7 @@ const Home = () => {
               className="text-white border-2 px-6 py-3 my-2 mx-auto flex items-center hover:bg-[#e07ad6] hover:border-[#e07ad6] transition ease-in-out duration-300"
               style={{ borderRadius: "16px" }}
             >
-              Read More <FaRegArrowAltCircleRight className="ml-3" />
+              Read More <BsChevronDoubleRight className="ml-3" />
             </button>
           </Link>
         </div>

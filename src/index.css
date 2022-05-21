@@ -19,13 +19,13 @@
   background-size: cover;
   background-position: center;
   height: 300px;
-  width: auto;
+  width: 400px;
 }
 
 .content-div:hover {
   background-image: linear-gradient(
     245deg,
-    rgba(231, 118, 188, 0.8),
-    rgba(87, 60, 78, 0.8)
+    rgba(227, 118, 231, 0.8),
+    rgba(82, 60, 87, 0.8)
   );
 }

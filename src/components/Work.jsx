@@ -1,5 +1,7 @@
 import React from "react";
 import WorkImg from "../assets/StudentInformationSystem.png";
+import redoThumb from "../assets/redothumbnail.png";
+import eftisfun from "../assets/tarkovisfunthumb.png";
 
 const Work = () => {
   return (
@@ -15,27 +17,39 @@ const Work = () => {
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-4 items-center">
           <div className="shadow-lg shadow-[#040c16] rounded-md justify-center items-center mx-auto">
-            <div>
-              <iframe
-                width="auto"
-                height="auto"
-                src="https://www.youtube.com/embed/r5Fv9onriMQ"
-                title="YouTube video player"
-                frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              ></iframe>
+            <div
+              style={{ backgroundImage: `url(${redoThumb})` }}
+              className="rounded-lg items-center mb-5"
+            >
+              <div className="opacity-0 hover:opacity-100 justify-center items-center text-center p-5 transition ease-in-out duration-300 rounded-lg content-div">
+                <span className="text-2xl font-bold text-gray-100 tracking-wider">
+                  Redo Video
+                </span>
+                <div className="pt-4">
+                  <a href="https://youtu.be/r5Fv9onriMQ" target="_blank">
+                    <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 transform hover:scale-105 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
+                      YouTube
+                    </button>
+                  </a>
+                </div>
+              </div>
             </div>
-            <div className="pt-6">
-              <iframe
-                width="auto"
-                height="auto"
-                src="https://www.youtube.com/embed/m7PzlXFiyi8"
-                title="YouTube video player"
-                frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              ></iframe>
+            <div
+              style={{ backgroundImage: `url(${eftisfun})` }}
+              className="rounded-lg items-center"
+            >
+              <div className="opacity-0 hover:opacity-100 justify-center items-center text-center p-5 transition ease-in-out duration-300 rounded-lg content-div">
+                <span className="text-2xl font-bold text-gray-100 tracking-wider">
+                  Tarkov is Fun Video
+                </span>
+                <div className="pt-4">
+                  <a href="https://youtu.be/m7PzlXFiyi8" target="_blank">
+                    <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 transform hover:scale-105 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
+                      YouTube
+                    </button>
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
           <div className="shadow-lg shadow-[#040c16] rounded-md justify-center items-center mx-auto">
@@ -58,7 +72,6 @@ const Work = () => {
                   </a>
                 </div>
               </div>
-              {/* <img src={WorkImg} /> */}
             </div>
           </div>
         </div>
