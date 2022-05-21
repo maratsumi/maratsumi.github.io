@@ -29,3 +29,11 @@
     rgba(82, 60, 87, 0.8)
   );
 }
+
+.twitterIcon:hover {
+  color: #26b2ff;
+}
+
+.youtubeIcon:hover {
+  color: #ed4242;
+}

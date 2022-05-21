@@ -10,11 +10,14 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-5 bg-[#1a1d20] text-gray-200">
       <div>
-        <img
-          src={Logo}
-          alt="Logo Image"
-          style={{ width: "50px", borderRadius: "12px" }}
-        />
+        <Link to="home" smooth={true} duration={500}>
+          <img
+            src={Logo}
+            alt="Logo Image"
+            style={{ width: "50px", borderRadius: "12px" }}
+            className="hover:rotate-6 transition ease-out duration-300"
+          />
+        </Link>
       </div>
       <div>
         <ul className="hidden md:flex">
