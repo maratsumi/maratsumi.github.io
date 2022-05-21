@@ -10,7 +10,7 @@ const Home = () => {
           ✿ Maratsumi ✿
         </h1>
         <h2 className="text-[#fcbbd3] text-2xl sm:text-xl font-bold text-center">
-          Eng/Fil ok!
+          Any Pronouns | Eng/Fil ok!
         </h2>
         <p className="text-gray-100 text-2xl sm:text-xl py-6 max-w-[936px] text-center">
           Heyo ! Welcome to my website ! Currently, Im still working on this
