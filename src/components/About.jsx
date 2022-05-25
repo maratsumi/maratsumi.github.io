@@ -1,4 +1,5 @@
 import React from "react";
+import { HiOutlineChevronRight, HiOutlineChevronLeft } from "react-icons/hi";
 
 const About = () => {
   return (
@@ -13,12 +14,53 @@ const About = () => {
           <div></div>
         </div>
         <div className="max-w-[1000px] w-full px-4 grid sm:grid-cols-2 gap-8">
-          <div className="text-left sm:text-right text-2xl font-bold">
-            <p>
-              Hello, world ! Insert random text here cause i cannot think of
-              anything right now thats why im filling this up with some filler
-              text
-            </p>
+          <div className="hidden sm:flex sm:text-right justify-end text-2xl font-bold pointer-events-none">
+            <ul className="about-list">
+              <li className="flex mx-auto items-end justify-end py-1">
+                Mara
+                <HiOutlineChevronLeft className="ml-1" />
+              </li>
+              <li className="flex mx-auto items-end justify-end py-1">
+                06/20
+                <HiOutlineChevronLeft className="ml-1" />
+              </li>
+              <li className="flex mx-auto items-end justify-end py-1">
+                Eng/Fil Ok!
+                <HiOutlineChevronLeft className="ml-1" />
+              </li>
+              <li className="flex mx-auto items-end justify-end py-1">
+                Any Pronouns
+                <HiOutlineChevronLeft className="ml-1" />
+              </li>
+              <li className="flex mx-auto items-end justify-end py-1">
+                Gaming gamer uau
+                <HiOutlineChevronLeft className="ml-1" />
+              </li>
+            </ul>
+          </div>
+          <div className="text-left flex sm:hidden text-2xl font-bold pointer-events-none">
+            <ul className="about-list">
+              <li className="flex mx-auto items-end justify-start py-1">
+                <HiOutlineChevronRight className="mr-1" />
+                Mara
+              </li>
+              <li className="flex mx-auto items-end justify-start py-1">
+                <HiOutlineChevronRight className="mr-1" />
+                06/20
+              </li>
+              <li className="flex mx-auto items-end justify-start py-1">
+                <HiOutlineChevronRight className="mr-1" />
+                Eng/Fil Ok!
+              </li>
+              <li className="flex mx-auto items-end justify-start py-1">
+                <HiOutlineChevronRight className="mr-1" />
+                Any Pronouns
+              </li>
+              <li className="flex mx-auto items-end justify-start py-1">
+                <HiOutlineChevronRight className="mr-1" />
+                Gaming gamer uau
+              </li>
+            </ul>
           </div>
           <div>
             <p className="text-xl">
