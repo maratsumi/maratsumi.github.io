@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/maratsumi.github.io-WIP/static/css/main.de92e461.css",
-    "main.js": "/maratsumi.github.io-WIP/static/js/main.e113353c.js",
+    "main.css": "/maratsumi.github.io-WIP/static/css/main.3fd1ff7e.css",
+    "main.js": "/maratsumi.github.io-WIP/static/js/main.3f2b170d.js",
     "static/media/placeholder.png": "/maratsumi.github.io-WIP/static/media/placeholder.7cfa6c0a5087904b19c8.png",
     "static/media/tarkovisfunthumb.png": "/maratsumi.github.io-WIP/static/media/tarkovisfunthumb.2bc8c673a78e8a985e77.png",
     "static/media/redothumbnail.png": "/maratsumi.github.io-WIP/static/media/redothumbnail.f9318f5cea7430fe4219.png",
     "static/media/StudentInformationSystem.png": "/maratsumi.github.io-WIP/static/media/StudentInformationSystem.53a4e4c3c00578f8de30.png",
     "index.html": "/maratsumi.github.io-WIP/index.html",
-    "main.de92e461.css.map": "/maratsumi.github.io-WIP/static/css/main.de92e461.css.map",
-    "main.e113353c.js.map": "/maratsumi.github.io-WIP/static/js/main.e113353c.js.map"
+    "main.3fd1ff7e.css.map": "/maratsumi.github.io-WIP/static/css/main.3fd1ff7e.css.map",
+    "main.3f2b170d.js.map": "/maratsumi.github.io-WIP/static/js/main.3f2b170d.js.map"
   },
   "entrypoints": [
-    "static/css/main.de92e461.css",
-    "static/js/main.e113353c.js"
+    "static/css/main.3fd1ff7e.css",
+    "static/js/main.3f2b170d.js"
   ]
 }
