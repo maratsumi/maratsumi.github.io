@@ -1,5 +1,6 @@
 import React from "react";
 import { HiOutlineChevronRight, HiOutlineChevronLeft } from "react-icons/hi";
+import { BsPlus } from "react-icons/bs";
 
 const About = () => {
   return (
@@ -14,7 +15,7 @@ const About = () => {
           <div></div>
         </div>
         <div className="max-w-[1000px] w-full px-4 grid sm:grid-cols-2 gap-8">
-          <div className="hidden sm:flex sm:text-right justify-end text-2xl font-bold pointer-events-none">
+          <div className="hidden sm:flex sm:text-right justify-end text-3xl font-bold pointer-events-none">
             <ul className="about-list">
               <li className="flex mx-auto items-end justify-end py-1">
                 Mara
@@ -38,7 +39,7 @@ const About = () => {
               </li>
             </ul>
           </div>
-          <div className="text-left flex sm:hidden text-2xl font-bold pointer-events-none">
+          <div className="text-left flex sm:hidden text-3xl font-bold pointer-events-none">
             <ul className="about-list">
               <li className="flex mx-auto items-end justify-start py-1">
                 <HiOutlineChevronRight className="mr-1" />
@@ -62,16 +63,29 @@ const About = () => {
               </li>
             </ul>
           </div>
-          <div>
-            <p className="text-xl">
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum."
-            </p>
+          <div className="text-left flex text-2xl font-bold pointer-events-none">
+            <ul className="about-list">
+              <li className="flex mx-auto sm:items-end items-center justify-start py-1">
+                <BsPlus className="mr-1" />
+                Video Games !
+              </li>
+              <li className="flex mx-auto sm:items-end items-center justify-start py-1">
+                <BsPlus className="mr-1" />
+                The Bad Guys The Bad Guys The B
+              </li>
+              <li className="flex mx-auto sm:items-end items-center justify-start py-1">
+                <BsPlus className="mr-1" />
+                Utattemita + Jpop
+              </li>
+              <li className="flex mx-auto sm:items-end items-center justify-start py-1">
+                <BsPlus className="mr-1" />
+                Jibaku Shounen Hanako-kun
+              </li>
+              <li className="flex mx-auto sm:items-end items-center justify-start py-1">
+                <BsPlus className="mr-1" />
+                More ( ◡‿◡✿ )
+              </li>
+            </ul>
           </div>
         </div>
       </div>

@@ -41,7 +41,7 @@ const Work = () => {
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200">
               <span className="text-2xl font-bold text-gray-100 tracking-wider">
-                Tarkov is Fun Video
+                Tarkov is Fun
               </span>
               <div className="pt-4">
                 <a href="https://youtu.be/m7PzlXFiyi8" target="_blank">

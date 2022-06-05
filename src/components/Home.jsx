@@ -13,9 +13,7 @@ const Home = () => {
           Any Pronouns | Eng/Fil ok!
         </h2>
         <p className="text-gray-100 text-2xl sm:text-xl py-6 max-w-[936px] text-center">
-          Heyo !! Welcome to my website ! <br></br> This contains stuff about
-          me, things I've done, and my socials ! <br></br> Why not have a look
-          around ?
+          Heyo !! Welcome to my website ! <br></br> Why not have a look around ?
         </p>
         <div>
           <Link to="about" smooth={true} duration={500}>
