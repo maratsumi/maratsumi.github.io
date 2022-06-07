@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3fd1ff7e.css",
-    "main.js": "/static/js/main.1a9795b0.js",
+    "main.css": "/static/css/main.b2660205.css",
+    "main.js": "/static/js/main.766404bf.js",
     "static/media/placeholder.png": "/static/media/placeholder.7cfa6c0a5087904b19c8.png",
     "static/media/tarkovisfunthumb.png": "/static/media/tarkovisfunthumb.2bc8c673a78e8a985e77.png",
     "static/media/redothumbnail.png": "/static/media/redothumbnail.f9318f5cea7430fe4219.png",
     "static/media/StudentInformationSystem.png": "/static/media/StudentInformationSystem.53a4e4c3c00578f8de30.png",
     "index.html": "/index.html",
-    "main.3fd1ff7e.css.map": "/static/css/main.3fd1ff7e.css.map",
-    "main.1a9795b0.js.map": "/static/js/main.1a9795b0.js.map"
+    "main.b2660205.css.map": "/static/css/main.b2660205.css.map",
+    "main.766404bf.js.map": "/static/js/main.766404bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fd1ff7e.css",
-    "static/js/main.1a9795b0.js"
+    "static/css/main.b2660205.css",
+    "static/js/main.766404bf.js"
   ]
 }
