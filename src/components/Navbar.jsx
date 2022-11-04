@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
-import Logo from "../assets/placeholder.png";
+import { TbFlower } from "react-icons/tb";
+// import Logo from "../assets/placeholder.png";
 import { Link } from "react-scroll";
 
 const Navbar = () => {
@@ -11,12 +12,15 @@ const Navbar = () => {
     <div className="fixed w-full h-[80px] flex justify-between items-center px-5 bg-[#1a1d20] text-gray-200">
       <div>
         <Link to="home" smooth={true} duration={500}>
-          <img
+          {/* <img
             src={Logo}
             alt="Logo Image"
             style={{ width: "50px", borderRadius: "12px" }}
             className="hover:rotate-6 transition ease-out duration-300"
-          />
+          /> */}
+          <div className="hover:rotate-12 transition ease-out duration-300 hover:text-pink-400">
+            <TbFlower size={35} />
+          </div>
         </Link>
       </div>
       <div>
