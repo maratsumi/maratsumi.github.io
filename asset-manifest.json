@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/maratsumi.github.io-updated/static/css/main.daa5e111.css",
-    "main.js": "/maratsumi.github.io-updated/static/js/main.4ff211c9.js",
-    "static/media/placeholder.png": "/maratsumi.github.io-updated/static/media/placeholder.7cfa6c0a5087904b19c8.png",
-    "static/media/tarkovisfunthumb.png": "/maratsumi.github.io-updated/static/media/tarkovisfunthumb.2bc8c673a78e8a985e77.png",
-    "static/media/redothumbnail.png": "/maratsumi.github.io-updated/static/media/redothumbnail.f9318f5cea7430fe4219.png",
-    "static/media/StudentInformationSystem.png": "/maratsumi.github.io-updated/static/media/StudentInformationSystem.53a4e4c3c00578f8de30.png",
-    "index.html": "/maratsumi.github.io-updated/index.html",
-    "main.daa5e111.css.map": "/maratsumi.github.io-updated/static/css/main.daa5e111.css.map",
-    "main.4ff211c9.js.map": "/maratsumi.github.io-updated/static/js/main.4ff211c9.js.map"
+    "main.css": "/static/css/main.d72ee2c3.css",
+    "main.js": "/static/js/main.1c945809.js",
+    "static/media/placeholder.png": "/static/media/placeholder.7cfa6c0a5087904b19c8.png",
+    "static/media/tarkovisfunthumb.png": "/static/media/tarkovisfunthumb.2bc8c673a78e8a985e77.png",
+    "static/media/redothumbnail.png": "/static/media/redothumbnail.f9318f5cea7430fe4219.png",
+    "static/media/StudentInformationSystem.png": "/static/media/StudentInformationSystem.53a4e4c3c00578f8de30.png",
+    "index.html": "/index.html",
+    "main.d72ee2c3.css.map": "/static/css/main.d72ee2c3.css.map",
+    "main.1c945809.js.map": "/static/js/main.1c945809.js.map"
   },
   "entrypoints": [
-    "static/css/main.daa5e111.css",
-    "static/js/main.4ff211c9.js"
+    "static/css/main.d72ee2c3.css",
+    "static/js/main.1c945809.js"
   ]
 }
