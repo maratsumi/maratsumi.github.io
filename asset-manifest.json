@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fefa0437.css",
-    "main.js": "/static/js/main.02bcceb3.js",
+    "main.css": "/static/css/main.19ac6ab6.css",
+    "main.js": "/static/js/main.c0289eb4.js",
     "static/media/OldWebsite.png": "/static/media/OldWebsite.e87824f18c47dae97bbb.png",
     "static/media/tarkovisfunthumb.png": "/static/media/tarkovisfunthumb.2bc8c673a78e8a985e77.png",
     "static/media/redothumbnail.png": "/static/media/redothumbnail.f9318f5cea7430fe4219.png",
@@ -9,11 +9,11 @@
     "static/media/StudentInformationSystem.png": "/static/media/StudentInformationSystem.53a4e4c3c00578f8de30.png",
     "static/media/PointOfSale.png": "/static/media/PointOfSale.947853a53f6273d524ad.png",
     "index.html": "/index.html",
-    "main.fefa0437.css.map": "/static/css/main.fefa0437.css.map",
-    "main.02bcceb3.js.map": "/static/js/main.02bcceb3.js.map"
+    "main.19ac6ab6.css.map": "/static/css/main.19ac6ab6.css.map",
+    "main.c0289eb4.js.map": "/static/js/main.c0289eb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.fefa0437.css",
-    "static/js/main.02bcceb3.js"
+    "static/css/main.19ac6ab6.css",
+    "static/js/main.c0289eb4.js"
   ]
 }
