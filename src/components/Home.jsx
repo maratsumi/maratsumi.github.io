@@ -6,8 +6,8 @@ const Home = () => {
   return (
     <div name="home" className="w-full h-screen bg-[#1d2126]">
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center items-center h-full">
-        <h1 className="text-[#e98adf] text-4xl sm:text-5xl font-bold text-center">
-          ✿ Maratsumi ✿
+        <h1 className="text-[#e997e1] text-4xl sm:text-5xl font-bold text-center pb-2">
+          ✿ Angelo Vitug ✿
         </h1>
         <h2 className="text-[#fcbbd3] text-2xl sm:text-xl font-bold text-center">
           ~ Programmer ~
