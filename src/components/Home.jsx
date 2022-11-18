@@ -10,7 +10,7 @@ const Home = () => {
           ✿ Maratsumi ✿
         </h1>
         <h2 className="text-[#fcbbd3] text-2xl sm:text-xl font-bold text-center">
-          ~ Aspiring Programmer ~
+          ~ Programmer ~
         </h2>
         <p className="text-gray-100 text-2xl sm:text-xl py-6 max-w-[800px] text-center">
           Hello, I'm Angelo Vitug! You can call me Angelo or Gelo. I am a
