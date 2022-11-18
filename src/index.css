@@ -16,9 +16,7 @@
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: "Noto Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -41,12 +39,4 @@ code {
     rgb(223, 132, 226),
     rgb(123, 171, 185)
   ) !important;
-}
-
-.twitterIcon:hover {
-  color: #26b2ff;
-}
-
-.youtubeIcon:hover {
-  color: #ed4242;
 }

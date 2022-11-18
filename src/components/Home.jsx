@@ -5,17 +5,21 @@ import { Link } from "react-scroll";
 const Home = () => {
   return (
     <div name="home" className="w-full h-screen bg-[#1d2126]">
-      <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
+      <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center items-center h-full">
         <h1 className="text-[#e98adf] text-4xl sm:text-5xl font-bold text-center">
           ✿ Maratsumi ✿
         </h1>
         <h2 className="text-[#fcbbd3] text-2xl sm:text-xl font-bold text-center">
-          Any Pronouns | Eng/Fil ok!
+          ~ Aspiring Programmer ~
         </h2>
-        <p className="text-gray-100 text-2xl sm:text-xl py-6 max-w-[936px] text-center">
-          Heyo !! Welcome to my website ! <br></br> Why not have a look around ?
+        <p className="text-gray-100 text-2xl sm:text-xl py-6 max-w-[800px] text-center">
+          Hello, I'm Angelo Vitug! You can call me Angelo or Gelo. I am a
+          programming student who strives to soon become a software developer,
+          backend developer, or website developer in the future! Driven by the
+          passion to constantly learn and solve problems, I wish to put my
+          critical thinking and logical reasoning skills to great use.
         </p>
-        <div>
+        <div className="mx-auto">
           <Link to="about" smooth={true} duration={500}>
             <button
               className="text-white border-2 px-6 py-3 my-2 mx-auto flex items-center hover:bg-[#e07ad6] hover:border-[#e07ad6] transition ease-in-out duration-300"

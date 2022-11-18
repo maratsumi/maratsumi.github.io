@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { TbFlower } from "react-icons/tb";
-// import Logo from "../assets/placeholder.png";
 import { Link } from "react-scroll";
 
 const Navbar = () => {
@@ -12,12 +11,6 @@ const Navbar = () => {
     <div className="fixed w-full h-[80px] flex justify-between items-center px-5 bg-[#1a1d20] text-gray-200">
       <div>
         <Link to="home" smooth={true} duration={500}>
-          {/* <img
-            src={Logo}
-            alt="Logo Image"
-            style={{ width: "50px", borderRadius: "12px" }}
-            className="hover:rotate-6 transition ease-out duration-300"
-          /> */}
           <div className="hover:rotate-12 transition ease-out duration-300 hover:text-pink-400">
             <TbFlower size={35} />
           </div>
@@ -26,7 +19,7 @@ const Navbar = () => {
       <div>
         <ul className="hidden md:flex">
           <li
-            className="hover:bg-[#282b2e] transition ease-in-out duration-300"
+            className="hover:bg-[#282b2e] transition ease-in-out duration-300 py-1"
             style={{ borderRadius: "8px" }}
           >
             <Link to="home" smooth={true} duration={500}>
@@ -34,15 +27,15 @@ const Navbar = () => {
             </Link>
           </li>
           <li
-            className="hover:bg-[#282b2e] transition ease-in-out duration-300"
+            className="hover:bg-[#282b2e] transition ease-in-out duration-300 py-1"
             style={{ borderRadius: "8px" }}
           >
             <Link to="about" smooth={true} duration={500}>
-              About
+              Skills
             </Link>
           </li>
           <li
-            className="hover:bg-[#282b2e] transition ease-in-out duration-300"
+            className="hover:bg-[#282b2e] transition ease-in-out duration-300 py-1"
             style={{ borderRadius: "8px" }}
           >
             <Link to="works" smooth={true} duration={500}>
@@ -50,11 +43,11 @@ const Navbar = () => {
             </Link>
           </li>
           <li
-            className="hover:bg-[#282b2e] transition ease-in-out duration-300"
+            className="hover:bg-[#282b2e] transition ease-in-out duration-300 py-1"
             style={{ borderRadius: "8px" }}
           >
             <Link to="socials" smooth={true} duration={500}>
-              Socials
+              Contact
             </Link>
           </li>
         </ul>
@@ -78,7 +71,7 @@ const Navbar = () => {
         </li>
         <li className="py-5 text-3xl">
           <Link onClick={handleClick} to="about" smooth={true} duration={500}>
-            About
+            Skills
           </Link>
         </li>
         <li className="py-5 text-3xl">
@@ -88,7 +81,7 @@ const Navbar = () => {
         </li>
         <li className="py-5 text-3xl">
           <Link onClick={handleClick} to="socials" smooth={true} duration={500}>
-            Socials
+            Contact
           </Link>
         </li>
       </ul>
