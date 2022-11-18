@@ -9,7 +9,7 @@ import pointofsale from "../assets/PointOfSale.png";
 const Work = () => {
   return (
     <div name="works" className="w-full md:h-screen text-gray-100 bg-[#1d2126]">
-      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+      <div className="max-w-[1080px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <h1 className="text-4xl font-bold inline border-b-4 border-[#e98adf]">
             Works

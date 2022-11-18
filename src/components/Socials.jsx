@@ -8,7 +8,7 @@ const Socials = () => {
   return (
     <div name="socials" className="w-full h-full bg-[#1f2429] text-gray-100">
       <div>
-        <div className="max-w-[1000px] mx-auto p-5 flex flex-col justify-center w-full h-full">
+        <div className="max-w-[1080px] mx-auto p-5 flex flex-col justify-center w-full h-full">
           <div className="pb-8">
             <h1 className="text-4xl font-bold inline border-b-4 border-[#e98adf]">
               Contact Me
@@ -23,7 +23,7 @@ const Socials = () => {
               >
                 <BsFacebook
                   size={70}
-                  className="w-20 mx-auto mb-2 hover:scale-110 transition ease-out duration-500"
+                  className="mx-auto mb-2 hover:scale-110 transition ease-out duration-500"
                 />
               </a>
               <h1 className="text-gray-300 pt-2">Angelo Vitug</h1>
@@ -31,16 +31,16 @@ const Socials = () => {
             <div className="emailIcon">
               <HiOutlineMail
                 size={70}
-                className="w-20 mx-auto mb-2 hover:scale-110 transition ease-out duration-500"
+                className="mx-auto mb-2 hover:scale-110 transition ease-out duration-500"
               />
-              <h1 className="text-gray-300 pt-2">
+              <h1 className="text-gray-300 pt-2 text-sm sm:text-base">
                 angelovitug17@gmail.com<br></br>angelo.vitug@ciit.edu.ph
               </h1>
             </div>
             <div className="phoneIcon">
               <FiPhone
                 size={70}
-                className="w-20 mx-auto mb-2 hover:scale-110 transition ease-out duration-500"
+                className="mx-auto mb-2 hover:scale-110 transition ease-out duration-500"
               />
               <h1 className="text-gray-300 pt-2">+63 966 332 6876</h1>
             </div>
@@ -52,7 +52,7 @@ const Socials = () => {
               >
                 <BsGithub
                   size={70}
-                  className="w-20 mx-auto mb-2 hover:scale-110 transition ease-out duration-500"
+                  className="mx-auto mb-2 hover:scale-110 transition ease-out duration-500"
                 />
               </a>
               <h1 className="text-gray-300 pt-2">maratsumi</h1>
