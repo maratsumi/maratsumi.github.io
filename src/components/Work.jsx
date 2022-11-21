@@ -34,7 +34,7 @@ const Work = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 transform hover:scale-105 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
+                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
                     Code
                   </button>
                 </a>
@@ -55,7 +55,7 @@ const Work = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 transform hover:scale-105 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
+                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
                     Website
                   </button>
                 </a>
@@ -76,7 +76,7 @@ const Work = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 transform hover:scale-105 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
+                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
                     Code
                   </button>
                 </a>
@@ -97,7 +97,7 @@ const Work = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 transform hover:scale-105 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
+                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
                     Code
                   </button>
                 </a>
@@ -118,7 +118,7 @@ const Work = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 transform hover:scale-105 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
+                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
                     YouTube
                   </button>
                 </a>
@@ -139,7 +139,7 @@ const Work = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 transform hover:scale-105 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
+                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
                     YouTube
                   </button>
                 </a>
