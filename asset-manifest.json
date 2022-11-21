@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.58e2051f.css",
-    "main.js": "/static/js/main.11e69e62.js",
+    "main.js": "/static/js/main.d5a2eaef.js",
     "static/media/OldWebsite.png": "/static/media/OldWebsite.e87824f18c47dae97bbb.png",
     "static/media/tarkovisfunthumb.png": "/static/media/tarkovisfunthumb.2bc8c673a78e8a985e77.png",
     "static/media/COVID19Log.png": "/static/media/COVID19Log.11fd430b5edd7786e3e0.png",
@@ -9,10 +9,10 @@
     "static/media/PointOfSale.png": "/static/media/PointOfSale.947853a53f6273d524ad.png",
     "index.html": "/index.html",
     "main.58e2051f.css.map": "/static/css/main.58e2051f.css.map",
-    "main.11e69e62.js.map": "/static/js/main.11e69e62.js.map"
+    "main.d5a2eaef.js.map": "/static/js/main.d5a2eaef.js.map"
   },
   "entrypoints": [
     "static/css/main.58e2051f.css",
-    "static/js/main.11e69e62.js"
+    "static/js/main.d5a2eaef.js"
   ]
 }
