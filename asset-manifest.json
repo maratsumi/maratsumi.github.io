@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.16245e2e.css",
-    "main.js": "/static/js/main.cdcb8cd8.js",
+    "main.css": "/static/css/main.a0334ce3.css",
+    "main.js": "/static/js/main.be93e9dd.js",
     "static/media/OldWebsite.png": "/static/media/OldWebsite.e87824f18c47dae97bbb.png",
     "static/media/tarkovisfunthumb.png": "/static/media/tarkovisfunthumb.2bc8c673a78e8a985e77.png",
     "static/media/COVID19Log.png": "/static/media/COVID19Log.11fd430b5edd7786e3e0.png",
@@ -9,11 +9,11 @@
     "static/media/PointOfSale.png": "/static/media/PointOfSale.947853a53f6273d524ad.png",
     "static/media/QuestsThumbnail.png": "/static/media/QuestsThumbnail.78540f28ec535c9d3b55.png",
     "index.html": "/index.html",
-    "main.16245e2e.css.map": "/static/css/main.16245e2e.css.map",
-    "main.cdcb8cd8.js.map": "/static/js/main.cdcb8cd8.js.map"
+    "main.a0334ce3.css.map": "/static/css/main.a0334ce3.css.map",
+    "main.be93e9dd.js.map": "/static/js/main.be93e9dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.16245e2e.css",
-    "static/js/main.cdcb8cd8.js"
+    "static/css/main.a0334ce3.css",
+    "static/js/main.be93e9dd.js"
   ]
 }
