@@ -14,9 +14,12 @@ const Work = () => {
           <h1 className="text-4xl font-bold inline border-b-4 border-[#e98adf]">
             Works
           </h1>
-          <h2 className="py-6 text-xl">
+          <h2 className="pt-6 text-xl">
             Here are some of the works I have completed, be it programming,
             videos, etc.
+          </h2>
+          <h2 className="text-base">
+            You can find more in my GitHub and YouTube profiles!
           </h2>
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 items-center">
@@ -24,11 +27,16 @@ const Work = () => {
             style={{ backgroundImage: `url(${WorkImg})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div"
           >
-            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200">
+            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
               <span className="text-2xl font-bold text-gray-100 tracking-wider">
                 Student Information System
               </span>
-              <div className="pt-4">
+              <br />
+              <span className="text-sm text-gray-100 tracking-wider">
+                This application features the use of the CRUD system and OOP in
+                Java.
+              </span>
+              <div className="pt-2">
                 <a
                   href="https://github.com/maratsumi/Student-Information-System-CIIT-QA"
                   target="_blank"
@@ -45,11 +53,15 @@ const Work = () => {
             style={{ backgroundImage: `url(${oldwebsite})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div"
           >
-            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200">
+            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
               <span className="text-2xl font-bold text-gray-100 tracking-wider">
-                Old Website
+                Portfolio Website (Outdated)
               </span>
-              <div className="pt-4">
+              <br />
+              <span className="text-sm text-gray-100 tracking-wider">
+                This website was the first iteration of my portfolio/CV website.
+              </span>
+              <div className="pt-2">
                 <a
                   href="https://maratsumi.github.io/maratsumi.github.io-old/"
                   target="_blank"
@@ -66,11 +78,15 @@ const Work = () => {
             style={{ backgroundImage: `url(${covid19log})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div"
           >
-            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200">
+            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
               <span className="text-2xl font-bold text-gray-100 tracking-wider">
                 COVID-19 Visitor Log (Console/CLI)
               </span>
-              <div className="pt-4">
+              <br />
+              <span className="text-sm text-gray-100 tracking-wider">
+                This console application features the use of OOP using Java.
+              </span>
+              <div className="pt-2">
                 <a
                   href="https://github.com/maratsumi/Covid19TrackerJava"
                   target="_blank"
@@ -87,11 +103,16 @@ const Work = () => {
             style={{ backgroundImage: `url(${pointofsale})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div"
           >
-            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200">
+            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
               <span className="text-2xl font-bold text-gray-100 tracking-wider">
                 Point of Sale System (Console/CLI)
               </span>
-              <div className="pt-4">
+              <br />
+              <span className="text-sm text-gray-100 tracking-wider">
+                This application features the use of the CRUD system in C++
+                using the file create/read/write libraries.
+              </span>
+              <div className="pt-2">
                 <a
                   href="https://github.com/maratsumi/Point-of-sale"
                   target="_blank"
@@ -108,9 +129,13 @@ const Work = () => {
             style={{ backgroundImage: `url(${eftisfun})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div"
           >
-            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200">
+            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
               <span className="text-2xl font-bold text-gray-100 tracking-wider">
                 Tarkov is Fun
+              </span>
+              <br />
+              <span className="text-sm text-gray-100 tracking-wider">
+                This video features a comedic montage for a video game I like!
               </span>
               <div className="pt-4">
                 <a
@@ -129,11 +154,15 @@ const Work = () => {
             style={{ backgroundImage: `url(${quests})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div"
           >
-            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200">
+            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
               <span className="text-2xl font-bold text-gray-100 tracking-wider">
                 Quests
               </span>
-              <div className="pt-4">
+              <br />
+              <span className="text-sm text-gray-100 tracking-wider">
+                This video features a montage for a video game I like!
+              </span>
+              <div className="pt-2">
                 <a
                   href="https://youtu.be/aqPpF9LO1l8"
                   target="_blank"
