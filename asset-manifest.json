@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.36707110.css",
-    "main.js": "/static/js/main.10befeed.js",
+    "main.css": "/static/css/main.1681f7f5.css",
+    "main.js": "/static/js/main.4ab69320.js",
     "static/media/1by1.png": "/static/media/1by1.228e7ae4b5fa2759e51b.png",
     "static/media/OldWebsite.png": "/static/media/OldWebsite.e87824f18c47dae97bbb.png",
     "static/media/tarkovisfunthumb.png": "/static/media/tarkovisfunthumb.2bc8c673a78e8a985e77.png",
@@ -10,11 +10,11 @@
     "static/media/PointOfSale.png": "/static/media/PointOfSale.947853a53f6273d524ad.png",
     "static/media/QuestsThumbnail.png": "/static/media/QuestsThumbnail.78540f28ec535c9d3b55.png",
     "index.html": "/index.html",
-    "main.36707110.css.map": "/static/css/main.36707110.css.map",
-    "main.10befeed.js.map": "/static/js/main.10befeed.js.map"
+    "main.1681f7f5.css.map": "/static/css/main.1681f7f5.css.map",
+    "main.4ab69320.js.map": "/static/js/main.4ab69320.js.map"
   },
   "entrypoints": [
-    "static/css/main.36707110.css",
-    "static/js/main.10befeed.js"
+    "static/css/main.1681f7f5.css",
+    "static/js/main.4ab69320.js"
   ]
 }
