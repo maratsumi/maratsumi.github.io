@@ -33,8 +33,8 @@ const Work = () => {
               </span>
               <br />
               <span className="text-sm text-gray-100 tracking-wider">
-                This application features the use of the CRUD system and OOP in
-                Java.
+                This full-fledged application features the use of the CRUD
+                system and OOP in Java.
               </span>
               <div className="pt-2">
                 <a
