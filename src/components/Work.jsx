@@ -59,7 +59,8 @@ const Work = () => {
               </span>
               <br />
               <span className="text-sm text-gray-100 tracking-wider">
-                This website was the first iteration of my portfolio/CV website.
+                This website was the first iteration of my portfolio website.
+                jQuery and Bootstrap were used during its creation.
               </span>
               <div className="pt-2">
                 <a
