@@ -1,6 +1,5 @@
 import React from "react";
 import WorkImg from "../assets/StudentInformationSystem.png";
-import eftisfun from "../assets/tarkovisfunthumb.png";
 import covid19log from "../assets/COVID19Log.png";
 import oldwebsite from "../assets/OldWebsite.png";
 import pointofsale from "../assets/PointOfSale.png";
