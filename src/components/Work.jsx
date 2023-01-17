@@ -112,7 +112,7 @@ const Work = () => {
               <br />
               <span className="text-sm text-gray-100 tracking-wider">
                 This application features the use of the CRUD system in C++
-                using the file create/read/write libraries. Created with Vistual
+                using the file create/read/write libraries. Created with Visual
                 Studio 2022.
               </span>
               <div className="pt-2">
