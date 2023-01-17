@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.37fc53e4.css",
-    "main.js": "/static/js/main.bbb5cb5d.js",
+    "main.js": "/static/js/main.a932fa58.js",
     "static/media/1by1.png": "/static/media/1by1.228e7ae4b5fa2759e51b.png",
     "static/media/OldWebsite.png": "/static/media/OldWebsite.e87824f18c47dae97bbb.png",
     "static/media/COVID19Log.png": "/static/media/COVID19Log.11fd430b5edd7786e3e0.png",
@@ -10,10 +10,10 @@
     "static/media/QuestsThumbnail.png": "/static/media/QuestsThumbnail.78540f28ec535c9d3b55.png",
     "index.html": "/index.html",
     "main.37fc53e4.css.map": "/static/css/main.37fc53e4.css.map",
-    "main.bbb5cb5d.js.map": "/static/js/main.bbb5cb5d.js.map"
+    "main.a932fa58.js.map": "/static/js/main.a932fa58.js.map"
   },
   "entrypoints": [
     "static/css/main.37fc53e4.css",
-    "static/js/main.bbb5cb5d.js"
+    "static/js/main.a932fa58.js"
   ]
 }
