@@ -33,7 +33,7 @@ const Work = () => {
               <br />
               <span className="text-sm text-gray-100 tracking-wider">
                 This full-fledged application features the use of the CRUD
-                system and OOP in Java.
+                system and OOP in Java. Created with NetBeans.
               </span>
               <div className="pt-2">
                 <a
@@ -59,7 +59,8 @@ const Work = () => {
               <br />
               <span className="text-sm text-gray-100 tracking-wider">
                 This website was the first iteration of my portfolio website.
-                jQuery and Bootstrap were used during its creation.
+                jQuery and Bootstrap were used during its creation. Created with
+                Visual Studio Code.
               </span>
               <div className="pt-2">
                 <a
@@ -85,6 +86,7 @@ const Work = () => {
               <br />
               <span className="text-sm text-gray-100 tracking-wider">
                 This console application features the use of OOP using Java.
+                Created with NetBeans and Visual Studio Code.
               </span>
               <div className="pt-2">
                 <a
@@ -110,7 +112,8 @@ const Work = () => {
               <br />
               <span className="text-sm text-gray-100 tracking-wider">
                 This application features the use of the CRUD system in C++
-                using the file create/read/write libraries.
+                using the file create/read/write libraries. Created with Vistual
+                Studio 2022.
               </span>
               <div className="pt-2">
                 <a
@@ -135,7 +138,8 @@ const Work = () => {
               </span>
               <br />
               <span className="text-sm text-gray-100 tracking-wider">
-                This video features a montage for a video game I like!
+                This video features a montage for a video game I like! Created
+                with Adobe Premiere Pro and Photoshop.
               </span>
               <div className="pt-2">
                 <a
