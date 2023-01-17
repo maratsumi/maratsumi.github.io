@@ -19,7 +19,7 @@ const Work = () => {
             videos, etc.
           </h2>
           <h2 className="text-base">
-            You can find more in my GitHub and YouTube profiles!
+            You can find more in my respective profiles!
           </h2>
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 items-center">
@@ -121,31 +121,6 @@ const Work = () => {
                 >
                   <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
                     Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div
-            style={{ backgroundImage: `url(${eftisfun})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div"
-          >
-            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
-              <span className="text-2xl font-bold text-gray-100 tracking-wider">
-                Tarkov is Fun
-              </span>
-              <br />
-              <span className="text-sm text-gray-100 tracking-wider">
-                This video features a comedic montage for a video game I like!
-              </span>
-              <div className="pt-4">
-                <a
-                  href="https://youtu.be/m7PzlXFiyi8"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
-                    YouTube
                   </button>
                 </a>
               </div>
