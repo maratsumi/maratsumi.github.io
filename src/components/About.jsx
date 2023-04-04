@@ -9,6 +9,7 @@ import {
   SiReact,
   SiJavascript,
   SiMysql,
+  SiPhp,
 } from "react-icons/si";
 import { BsPlus } from "react-icons/bs";
 
@@ -62,6 +63,10 @@ const About = () => {
                 <SiMysql className="ml-3" />
               </li>
               <li className="flex mx-auto items-end justify-end py-1">
+                PHP
+                <SiPhp className="ml-3" />
+              </li>
+              <li className="flex mx-auto items-end justify-end py-1">
                 C++
                 <SiCplusplus className="ml-3" />
               </li>
@@ -103,6 +108,10 @@ const About = () => {
               <li className="flex mx-auto items-end justify-start py-1">
                 <SiMysql className="mr-3" />
                 SQL
+              </li>
+              <li className="flex mx-auto items-end justify-start py-1">
+                <SiPhp className="mr-3" />
+                PHP
               </li>
               <li className="flex mx-auto items-end justify-start py-1">
                 <SiCplusplus className="mr-3" />

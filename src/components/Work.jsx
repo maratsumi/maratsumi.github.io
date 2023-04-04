@@ -4,6 +4,7 @@ import covid19log from "../assets/COVID19Log.png";
 import oldwebsite from "../assets/OldWebsite.png";
 import pointofsale from "../assets/PointOfSale.png";
 import quests from "../assets/QuestsThumbnail.png";
+import sml from "../assets/shipmentManagementLog.png";
 
 const Work = () => {
   return (
@@ -118,6 +119,33 @@ const Work = () => {
               <div className="pt-2">
                 <a
                   href="https://github.com/maratsumi/Point-of-sale"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${sml})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div"
+          >
+            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
+              <span className="text-2xl font-bold text-gray-100 tracking-wider">
+                Shipment Management Log
+              </span>
+              <br />
+              <span className="text-sm text-gray-100 tracking-wider">
+                This application features the use of the CRUD system using SQL
+                and PHP on a functional website. Ran through XAMPP. Created with
+                Visual Studio Code.
+              </span>
+              <div className="pt-2">
+                <a
+                  href="https://github.com/maratsumi/IM-Project-Proposal"
                   target="_blank"
                   rel="noreferrer"
                 >
