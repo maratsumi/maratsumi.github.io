@@ -8,10 +8,10 @@ const Home = () => {
     <div name="home" className="w-full h-screen bg-[#1d2126]">
       <div className="max-w-[1080px] mx-auto px-8 flex flex-col justify-center items-center h-full">
         <h1 className="text-[#e997e1] text-4xl sm:text-5xl font-bold text-center pb-2">
-          ✿ Angelo Vitug ✿
+          Angelo Vitug
         </h1>
         <h2 className="text-[#fcbbd3] text-xl sm:text-xl font-bold text-center">
-          ~ Programmer ~
+          ~~ Programmer ~~
         </h2>
         <div className="inline md:flex content-center items-center">
           <img
@@ -21,10 +21,9 @@ const Home = () => {
           />
           <p className="text-gray-100 text-base text-justify px-3 sm:text-xl py-6 sm:px-10 max-w-full sm:text-left">
             Hello, I'm Angelo Vitug! I am a programming student who strives to
-            become a software developer, backend developer, or website developer
-            in the future! Driven by the passion to constantly learn and solve
-            problems, I wish to put my critical thinking and logical reasoning
-            skills to great use.
+            become a software developer! Driven by the passion to constantly
+            learn and solve problems, I wish to put my critical thinking and
+            logical reasoning skills to great use.
           </p>
         </div>
         <div className="flex mx-auto items-end">
