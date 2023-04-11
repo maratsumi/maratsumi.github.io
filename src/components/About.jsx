@@ -72,79 +72,74 @@ const About = () => {
               </li>
             </ul>
           </div>
-          <div className="text-left flex text-2xl font-bold sm:hidden">
+          <div className="text-left flex text-xl font-bold sm:hidden">
             <ul className="about-list">
               <li className="flex mx-auto items-end justify-start py-1">
                 Languages:
               </li>
-              <li className="flex mx-auto items-end justify-start py-1">
+              <li className="flex mx-auto items-end justify-start">
                 <FaJava className="mr-3" />
                 Java
               </li>
-              <li className="flex mx-auto items-end justify-start py-1">
+              <li className="flex mx-auto items-end justify-start">
                 <IoLogoHtml5 /> <BsPlus /> <IoLogoCss3 className="mr-3" />
-                HTML & CSS
+                HTML + CSS
               </li>
-              <li className="flex mx-auto items-end justify-start py-1">
-                <SiJquery className="mr-3" />
-                jQuery
-              </li>
-              <li className="flex mx-auto items-end justify-start py-1">
+              <li className="flex mx-auto items-end justify-start">
                 <SiTailwindcss className="mr-3" />
                 Tailwind
               </li>
-              <li className="flex mx-auto items-end justify-start py-1">
-                <SiBootstrap className="mr-3" />
-                Bootstrap
-              </li>
-              <li className="flex mx-auto items-end justify-start py-1">
+              <li className="flex mx-auto items-end justify-start">
                 <SiJavascript className="mr-3" />
                 Javascript
               </li>
-              <li className="flex mx-auto items-end justify-start py-1">
+              <li className="flex mx-auto items-end justify-start">
                 <SiReact className="mr-3" />
                 React.js
               </li>
-              <li className="flex mx-auto items-end justify-start py-1">
+              <li className="flex mx-auto items-end justify-start">
                 <SiMysql className="mr-3" />
                 SQL
               </li>
-              <li className="flex mx-auto items-end justify-start py-1">
+              <li className="flex mx-auto items-end justify-start">
                 <SiPhp className="mr-3" />
                 PHP
               </li>
-              <li className="flex mx-auto items-end justify-start py-1">
+              <li className="flex mx-auto items-end justify-start">
                 <SiCplusplus className="mr-3" />
                 C++
               </li>
+              <li className="flex mx-auto items-end justify-start text-sm">
+                ... jQuery, Bootstrap
+              </li>
             </ul>
           </div>
-          <div className="text-left flex text-2xl font-bold pointer-events-none sm:text-3xl">
+          <div className="text-left flex text-xl font-bold pointer-events-none sm:text-3xl">
             <ul className="about-list">
-              <li className="flex mx-auto sm:items-end items-center justify-start py-1">
+              <li className="flex mx-auto sm:items-end items-center justify-start">
                 Soft Skills:
               </li>
-              <li className="flex mx-auto sm:items-end items-center justify-start py-1">
+              <li className="flex mx-auto sm:items-end items-center justify-start">
                 <BsPlus className="mr-1" />
                 Time Management
               </li>
-              <li className="flex mx-auto sm:items-end items-center justify-start py-1">
+              <li className="flex mx-auto sm:items-end items-center justify-start">
                 <BsPlus className="mr-1" />
                 Communication
               </li>
-              <li className="flex mx-auto sm:items-end items-center justify-start py-1">
+              <li className="flex mx-auto sm:items-end items-center justify-start">
                 <BsPlus className="mr-1" />
                 Critical Thinking
               </li>
-              <li className="flex mx-auto sm:items-end items-center justify-start py-1">
+              <li className="flex mx-auto sm:items-end items-center justify-start">
                 <BsPlus className="mr-1" />
                 Teamwork
               </li>
-              <li className="flex mx-auto sm:items-end items-center justify-start py-1">
+              <li className="flex mx-auto sm:items-end items-center justify-start">
                 <BsPlus className="mr-1" />
                 Flexibility
               </li>
-              <li className="flex mx-auto sm:items-end items-center justify-start py-1">
+              <li className="flex mx-auto sm:items-end items-center justify-start">
                 <BsPlus className="mr-1" />
                 Self-management
               </li>
