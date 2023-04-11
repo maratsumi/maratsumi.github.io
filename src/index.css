@@ -30,7 +30,7 @@ code {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 300px;
+  /* height: 300px; */
 }
 
 .content-div:hover {
