@@ -246,7 +246,7 @@ const Work = () => {
               </p>
               <div className="pt-2">
                 <a
-                  href="https://github.com/maratsumi/Student-Information-System-CIIT-QA" //TODO #4 Change links to their respective work
+                  href="https://www.figma.com/file/8hIDuweLT04OtJOlrSnSUB/Mugna-Project-Charlie-First-Iteration-Prototype-SAMPLE---PORTFOLIO-VIEWING-ONLY?type=design&node-id=0%3A1&t=Z4PyLeZumpOiS1za-1"
                   target="_blank"
                   rel="noreferrer"
                 >
