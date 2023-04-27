@@ -72,7 +72,7 @@ const About = () => {
               </li>
             </ul>
           </div>
-          <div className="text-left flex text-xl font-bold sm:hidden">
+          <div className="text-left flex text-2xl font-bold sm:hidden">
             <ul className="about-list">
               <li className="flex mx-auto items-end justify-start py-1">
                 Languages:
@@ -114,7 +114,7 @@ const About = () => {
               </li>
             </ul>
           </div>
-          <div className="text-left flex text-xl font-bold pointer-events-none sm:text-3xl">
+          <div className="text-left flex text-2xl font-bold pointer-events-none sm:text-3xl">
             <ul className="about-list">
               <li className="flex mx-auto sm:items-end items-center justify-start">
                 Soft Skills:
