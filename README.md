@@ -37,5 +37,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### `npm run deploy`
 
-Builds the app for production and deploys the app to its designated website using the gh-page environment
+Builds the app for production and deploys the app to its designated website using the gh-page environment\
 In this case it is: https://maratsumi.github.io
