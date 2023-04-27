@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.bffd64dd.css",
-    "main.js": "/static/js/main.f637aa65.js",
-    "static/media/1by1.png": "/static/media/1by1.7883207b9f6281e8dff3.png",
+    "main.css": "/static/css/main.9acf4a20.css",
+    "main.js": "/static/js/main.dcbc4ca4.js",
+    "static/media/1by1.png": "/static/media/1by1.410038a152d89d627751.png",
+    "static/media/MugnaWebsiteFirst.png": "/static/media/MugnaWebsiteFirst.b39416bfdcade6112265.png",
     "static/media/OldWebsite.png": "/static/media/OldWebsite.e87824f18c47dae97bbb.png",
     "static/media/COVID19Log.png": "/static/media/COVID19Log.11fd430b5edd7786e3e0.png",
+    "static/media/MugnaWebsiteSecond.png": "/static/media/MugnaWebsiteSecond.683e7b5996ef020c20a9.png",
+    "static/media/MugnaStellaHub.png": "/static/media/MugnaStellaHub.64927dd73f938d13e0ba.png",
     "static/media/StudentInformationSystem.png": "/static/media/StudentInformationSystem.b42b5922f40285bada2c.png",
+    "static/media/MugnaWebsiteLatest.png": "/static/media/MugnaWebsiteLatest.7db1e367fd95238c9d5a.png",
     "static/media/shipmentManagementLog.png": "/static/media/shipmentManagementLog.c3e751885a4a8646cf38.png",
     "static/media/PointOfSale.png": "/static/media/PointOfSale.947853a53f6273d524ad.png",
     "static/media/QuestsThumbnail.png": "/static/media/QuestsThumbnail.78540f28ec535c9d3b55.png",
     "index.html": "/index.html",
-    "main.bffd64dd.css.map": "/static/css/main.bffd64dd.css.map",
-    "main.f637aa65.js.map": "/static/js/main.f637aa65.js.map"
+    "main.9acf4a20.css.map": "/static/css/main.9acf4a20.css.map",
+    "main.dcbc4ca4.js.map": "/static/js/main.dcbc4ca4.js.map"
   },
   "entrypoints": [
-    "static/css/main.bffd64dd.css",
-    "static/js/main.f637aa65.js"
+    "static/css/main.9acf4a20.css",
+    "static/js/main.dcbc4ca4.js"
   ]
 }
