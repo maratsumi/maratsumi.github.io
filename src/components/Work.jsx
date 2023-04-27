@@ -25,7 +25,7 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 items-center pb-6">
           <div
             style={{ backgroundImage: `url(${WorkImg})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60 2xl:h-64"
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
               <h1 className="text-xl font-bold text-gray-100 tracking-wider">
@@ -50,7 +50,7 @@ const Work = () => {
           </div>
           <div
             style={{ backgroundImage: `url(${oldwebsite})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60 2xl:h-64"
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
               <h1 className="text-xl font-bold text-gray-100 tracking-wider">
@@ -76,7 +76,7 @@ const Work = () => {
           </div>
           <div
             style={{ backgroundImage: `url(${covid19log})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60 2xl:h-64"
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
               <h1 className="text-xl font-bold text-gray-100 tracking-wider">
@@ -101,7 +101,7 @@ const Work = () => {
           </div>
           <div
             style={{ backgroundImage: `url(${pointofsale})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60 2xl:h-64"
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
               <h1 className="text-xl font-bold text-gray-100 tracking-wider">
@@ -127,7 +127,7 @@ const Work = () => {
           </div>
           <div
             style={{ backgroundImage: `url(${sml})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60 2xl:h-64"
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
               <h1 className="text-xl font-bold text-gray-100 tracking-wider">
@@ -153,7 +153,7 @@ const Work = () => {
           </div>
           <div
             style={{ backgroundImage: `url(${quests})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60 2xl:h-64"
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
               <h1 className="text-xl font-bold text-gray-100 tracking-wider">
@@ -178,7 +178,7 @@ const Work = () => {
           </div>
           <div
             style={{ backgroundImage: `url(${WorkImg})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60 2xl:h-64"
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
               <h1 className="text-xl font-bold text-gray-100 tracking-wider">
@@ -203,7 +203,7 @@ const Work = () => {
           </div>
           <div
             style={{ backgroundImage: `url(${WorkImg})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60 2xl:h-64"
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
               <h1 className="text-xl font-bold text-gray-100 tracking-wider">
