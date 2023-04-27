@@ -195,7 +195,7 @@ const Work = () => {
               </p>
               <div className="pt-2">
                 <a
-                  href="https://github.com/maratsumi/Student-Information-System-CIIT-QA" //TODO #4 Change links to their respective work
+                  href="https://www.figma.com/file/ZjLgkPevm9J6Qc46UEEruf/StellaHub-Prototype-SAMPLE---PORTFOLIO-VIEWING-ONLY?type=design&node-id=0%3A1&t=dJKeI0vS8g8FefhF-1"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -242,7 +242,7 @@ const Work = () => {
               </h1>
               <p className="text-sm text-gray-100 tracking-wider">
                 First prototype of Mugna's website during my internship. Created
-                in Figma and originally exported to Webflow.
+                in Figma.
               </p>
               <div className="pt-2">
                 <a
