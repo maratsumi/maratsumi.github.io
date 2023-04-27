@@ -21,7 +21,7 @@ const Home = () => {
           />
           <p className="text-gray-100 text-base text-justify px-3 sm:text-xl py-6 sm:px-10 max-w-full sm:text-left">
             Hello, I'm Angelo Vitug! I am a programming student who strives to
-            become a software developer! Driven by the passion to constantly
+            become a software developer. Driven by the passion to constantly
             learn and solve problems, I want to put my critical thinking and
             logical reasoning skills to great use.
           </p>
