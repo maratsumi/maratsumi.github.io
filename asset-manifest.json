@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9acf4a20.css",
-    "main.js": "/static/js/main.dcbc4ca4.js",
+    "main.js": "/static/js/main.c6329ca2.js",
     "static/media/1by1.png": "/static/media/1by1.410038a152d89d627751.png",
     "static/media/MugnaWebsiteFirst.png": "/static/media/MugnaWebsiteFirst.b39416bfdcade6112265.png",
     "static/media/OldWebsite.png": "/static/media/OldWebsite.e87824f18c47dae97bbb.png",
@@ -15,10 +15,10 @@
     "static/media/QuestsThumbnail.png": "/static/media/QuestsThumbnail.78540f28ec535c9d3b55.png",
     "index.html": "/index.html",
     "main.9acf4a20.css.map": "/static/css/main.9acf4a20.css.map",
-    "main.dcbc4ca4.js.map": "/static/js/main.dcbc4ca4.js.map"
+    "main.c6329ca2.js.map": "/static/js/main.c6329ca2.js.map"
   },
   "entrypoints": [
     "static/css/main.9acf4a20.css",
-    "static/js/main.dcbc4ca4.js"
+    "static/js/main.c6329ca2.js"
   ]
 }
