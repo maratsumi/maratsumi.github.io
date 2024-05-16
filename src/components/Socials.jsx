@@ -2,7 +2,6 @@ import React from "react";
 import { BsFacebook } from "react-icons/bs";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsGithub } from "react-icons/bs";
-import { FiPhone } from "react-icons/fi";
 
 const Socials = () => {
   return (
@@ -36,13 +35,6 @@ const Socials = () => {
               <h1 className="text-gray-300 pt-2 text-sm sm:text-base">
                 angelovitug17@gmail.com<br></br>angelo.vitug@ciit.edu.ph
               </h1>
-            </div>
-            <div className="phoneIcon">
-              <FiPhone
-                size={70}
-                className="mx-auto mb-2 hover:scale-110 transition ease-out duration-500"
-              />
-              <h1 className="text-gray-300 pt-2">+63 966 332 6876</h1>
             </div>
             <div className="githubIcon">
               <a
