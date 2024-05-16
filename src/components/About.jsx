@@ -28,7 +28,7 @@ const About = () => {
           <div className="hidden sm:flex sm:text-right justify-end text-3xl font-bold pointer-events-none">
             <ul className="about-list">
               <li className="flex mx-auto items-end justify-end py-1">
-                Languages:
+                Technical Skills:
               </li>
               <li className="flex mx-auto items-end justify-end py-1">
                 Java

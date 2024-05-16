@@ -5,6 +5,10 @@ import oldwebsite from "../assets/OldWebsite.png";
 import pointofsale from "../assets/PointOfSale.png";
 import quests from "../assets/QuestsThumbnail.png";
 import sml from "../assets/shipmentManagementLog.png";
+import mugnaweblatest from "../assets/MugnaWebsiteLatest.png";
+import mugnawebsecond from "../assets/MugnaWebsiteSecond.png";
+import mugnawebfirst from "../assets/MugnaWebsiteFirst.png";
+import mugnastellahub from "../assets/MugnaStellaHub.png";
 
 const Work = () => {
   return (
@@ -152,6 +156,108 @@ const Work = () => {
             </div>
           </div>
           <div
+            style={{ backgroundImage: `url(${mugnaweblatest})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
+          >
+            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
+              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
+                Mugna Website Prototype
+              </h1>
+              <p className="text-sm text-gray-100 tracking-wider">
+                Latest prototype of Mugna's website during my internship.
+                Features responsive design. Created in Figma and originally
+                exported to Webflow.
+              </p>
+              <div className="pt-2">
+                <a
+                  href="https://www.figma.com/file/EJvEdc1eYTWI97qvuwDihv/Mugna-Project-Charlie---PORTFOLIO-VIEWING-ONLY?type=design&node-id=0%3A1&t=DuFhGtPazIZVnKD0-1"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
+                    Figma
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${mugnastellahub})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
+          >
+            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
+              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
+                Mugna Solution Prototype
+              </h1>
+              <p className="text-sm text-gray-100 tracking-wider">
+                Latest prototype of Mugna's solution, StellaHub, during my
+                internship. Meant for restaurant franchises. Created in Figma.
+              </p>
+              <div className="pt-2">
+                <a
+                  href="https://www.figma.com/file/ZjLgkPevm9J6Qc46UEEruf/StellaHub-Prototype-SAMPLE---PORTFOLIO-VIEWING-ONLY?type=design&node-id=0%3A1&t=dJKeI0vS8g8FefhF-1"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
+                    Figma
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${mugnawebsecond})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
+          >
+            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
+              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
+                Mugna Website (Second Iteration)
+              </h1>
+              <p className="text-sm text-gray-100 tracking-wider">
+                Second prototype of Mugna's website during my internship.
+                Features responsive design. Created in Figma and originally
+                exported to Webflow.
+              </p>
+              <div className="pt-2">
+                <a
+                  href="https://www.figma.com/file/EJvEdc1eYTWI97qvuwDihv/Mugna-Project-Charlie---PORTFOLIO-VIEWING-ONLY?type=design&node-id=0%3A1&t=DuFhGtPazIZVnKD0-1"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
+                    Figma
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${mugnawebfirst})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
+          >
+            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
+              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
+                Mugna Website (First Iteration)
+              </h1>
+              <p className="text-sm text-gray-100 tracking-wider">
+                First prototype of Mugna's website during my internship. Created
+                in Figma.
+              </p>
+              <div className="pt-2">
+                <a
+                  href="https://www.figma.com/file/8hIDuweLT04OtJOlrSnSUB/Mugna-Project-Charlie-First-Iteration-Prototype-SAMPLE---PORTFOLIO-VIEWING-ONLY?type=design&node-id=0%3A1&t=Z4PyLeZumpOiS1za-1"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
+                    Figma
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
             style={{ backgroundImage: `url(${quests})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
@@ -171,56 +277,6 @@ const Work = () => {
                 >
                   <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
                     YouTube
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div
-            style={{ backgroundImage: `url(${WorkImg})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
-          >
-            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
-              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
-                Template
-              </h1>
-              <p className="text-sm text-gray-100 tracking-wider">
-                This full-fledged application features the use of the CRUD
-                system and OOP in Java. Created with NetBeans.
-              </p>
-              <div className="pt-2">
-                <a
-                  href="https://github.com/maratsumi/Student-Information-System-CIIT-QA"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
-                    Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div
-            style={{ backgroundImage: `url(${WorkImg})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
-          >
-            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
-              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
-                Template
-              </h1>
-              <p className="text-sm text-gray-100 tracking-wider">
-                This full-fledged application features the use of the CRUD
-                system and OOP in Java. Created with NetBeans.
-              </p>
-              <div className="pt-2">
-                <a
-                  href="https://github.com/maratsumi/Student-Information-System-CIIT-QA"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
-                    Code
                   </button>
                 </a>
               </div>
