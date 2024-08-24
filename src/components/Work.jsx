@@ -3,7 +3,6 @@ import WorkImg from "../assets/StudentInformationSystem.png";
 import covid19log from "../assets/COVID19Log.png";
 import oldwebsite from "../assets/OldWebsite.png";
 import pointofsale from "../assets/PointOfSale.png";
-import quests from "../assets/QuestsThumbnail.png";
 import sml from "../assets/shipmentManagementLog.png";
 import mugnaweblatest from "../assets/MugnaWebsiteLatest.png";
 import mugnawebsecond from "../assets/MugnaWebsiteSecond.png";
@@ -252,31 +251,6 @@ const Work = () => {
                 >
                   <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
                     Figma
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div
-            style={{ backgroundImage: `url(${quests})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
-          >
-            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
-              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
-                Quests
-              </h1>
-              <p className="text-sm text-gray-100 tracking-wider">
-                This video features a montage for a video game I like! Created
-                with Adobe Premiere Pro and Photoshop.
-              </p>
-              <div className="pt-2">
-                <a
-                  href="https://youtu.be/aqPpF9LO1l8"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
-                    YouTube
                   </button>
                 </a>
               </div>
