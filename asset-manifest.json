@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.380d29c9.css",
-    "main.js": "/static/js/main.1ca91399.js",
+    "main.css": "/static/css/main.ddb4279b.css",
+    "main.js": "/static/js/main.a2b85a95.js",
     "static/media/1by1.png": "/static/media/1by1.410038a152d89d627751.png",
     "static/media/MugnaWebsiteFirst.png": "/static/media/MugnaWebsiteFirst.b39416bfdcade6112265.png",
     "static/media/OldWebsite.png": "/static/media/OldWebsite.e87824f18c47dae97bbb.png",
@@ -13,11 +13,11 @@
     "static/media/shipmentManagementLog.png": "/static/media/shipmentManagementLog.c3e751885a4a8646cf38.png",
     "static/media/PointOfSale.png": "/static/media/PointOfSale.947853a53f6273d524ad.png",
     "index.html": "/index.html",
-    "main.380d29c9.css.map": "/static/css/main.380d29c9.css.map",
-    "main.1ca91399.js.map": "/static/js/main.1ca91399.js.map"
+    "main.ddb4279b.css.map": "/static/css/main.ddb4279b.css.map",
+    "main.a2b85a95.js.map": "/static/js/main.a2b85a95.js.map"
   },
   "entrypoints": [
-    "static/css/main.380d29c9.css",
-    "static/js/main.1ca91399.js"
+    "static/css/main.ddb4279b.css",
+    "static/js/main.a2b85a95.js"
   ]
 }
