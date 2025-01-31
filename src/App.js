@@ -8,7 +8,7 @@ import Work from "./components/Work";
 function App() {
   return (
     <div>
-      <title>♡ Shio / Maratsumi ♡</title>
+      <title>Programming Portfolio</title>
       <Navbar />
       <Home />
       <About />
@@ -18,7 +18,7 @@ function App() {
         className="bg-[#1f2429] text-gray-200 pl-1 text-sm"
         unselectable="on"
       >
-        Maratsumi © 2022
+        Angelo Vitug © 2025
       </footer>
     </div>
   );
