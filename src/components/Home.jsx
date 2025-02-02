@@ -17,7 +17,7 @@ const Home = () => {
           <img
             src={onebyone}
             alt="1by1"
-            className="w-32 mx-auto md:w-72 h-auto rounded-3xl pt-2 md:pb-2"
+            className="w-56 mx-auto md:w-72 h-auto rounded-3xl pt-2 md:pb-2"
           />
           <p className="text-gray-100 text-base text-justify px-3 sm:text-xl py-6 sm:px-10 max-w-full sm:text-left">
             Hello, I'm Angelo Vitug! I am a programming student who strives to
