@@ -7,9 +7,9 @@ import {
   SiBootstrap,
   SiJquery,
   SiReact,
-  SiJavascript,
   SiMysql,
   SiPhp,
+  SiPython,
 } from "react-icons/si";
 import { BsPlus } from "react-icons/bs";
 
@@ -51,8 +51,8 @@ const About = () => {
                 <SiBootstrap className="ml-3" />
               </li>
               <li className="flex mx-auto items-end justify-end py-1">
-                Javascript
-                <SiJavascript className="ml-3" />
+                Python
+                <SiPython className="ml-3" />
               </li>
               <li className="flex mx-auto items-end justify-end py-1">
                 React.js
@@ -72,7 +72,7 @@ const About = () => {
               </li>
             </ul>
           </div>
-          <div className="text-left flex text-2xl font-bold sm:hidden">
+          <div className="text-left flex text-2xl font-bold sm:hidden pointer-events-none">
             <ul className="about-list">
               <li className="flex mx-auto items-end justify-start py-1">
                 Languages:
@@ -90,8 +90,8 @@ const About = () => {
                 Tailwind
               </li>
               <li className="flex mx-auto items-end justify-start">
-                <SiJavascript className="mr-3" />
-                Javascript
+                <SiPython className="mr-3" />
+                Python
               </li>
               <li className="flex mx-auto items-end justify-start">
                 <SiReact className="mr-3" />

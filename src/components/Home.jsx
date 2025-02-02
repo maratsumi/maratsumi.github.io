@@ -13,7 +13,7 @@ const Home = () => {
         <h2 className="text-[#fcbbd3] text-xl sm:text-xl font-bold text-center">
           ~~ Programmer ~~
         </h2>
-        <div className="inline md:flex content-center items-center">
+        <div className="inline md:flex content-center items-center pointer-events-none">
           <img
             src={onebyone}
             alt="1by1"

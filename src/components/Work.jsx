@@ -31,10 +31,10 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
-              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
+              <h1 className="text-xl font-bold text-gray-100 tracking-wider pointer-events-none">
                 Student Information System
               </h1>
-              <p className="text-sm text-gray-100 tracking-wider">
+              <p className="text-sm text-gray-100 tracking-wider pointer-events-none">
                 This full-fledged application features the use of the CRUD
                 system and OOP in Java. Created with NetBeans.
               </p>
@@ -56,10 +56,10 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
-              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
+              <h1 className="text-xl font-bold text-gray-100 tracking-wider pointer-events-none">
                 Portfolio Website (Outdated)
               </h1>
-              <p className="text-sm text-gray-100 tracking-wider">
+              <p className="text-sm text-gray-100 tracking-wider pointer-events-none">
                 This website was the first iteration of my portfolio website.
                 jQuery and Bootstrap were used during its creation. Created with
                 Visual Studio Code.
@@ -82,10 +82,10 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
-              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
+              <h1 className="text-xl font-bold text-gray-100 tracking-wider pointer-events-none">
                 COVID-19 Visitor Log (Console/CLI)
               </h1>
-              <p className="text-sm text-gray-100 tracking-wider">
+              <p className="text-sm text-gray-100 tracking-wider pointer-events-none">
                 This console application features the use of OOP using Java.
                 Created with NetBeans and Visual Studio Code.
               </p>
@@ -107,10 +107,10 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
-              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
+              <h1 className="text-xl font-bold text-gray-100 tracking-wider pointer-events-none">
                 Point of Sale System (Console/CLI)
               </h1>
-              <p className="text-sm text-gray-100 tracking-wider">
+              <p className="text-sm text-gray-100 tracking-wider pointer-events-none">
                 This application features the use of the CRUD system in C++
                 using the file create/read/write libraries. Created with Visual
                 Studio.
@@ -133,10 +133,10 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
-              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
+              <h1 className="text-xl font-bold text-gray-100 tracking-wider pointer-events-none">
                 Shipment Management Log
               </h1>
-              <p className="text-sm text-gray-100 tracking-wider">
+              <p className="text-sm text-gray-100 tracking-wider pointer-events-none">
                 This application features the use of the CRUD system using SQL
                 and PHP on a functional website. Ran through XAMPP. Created with
                 Visual Studio Code.
@@ -159,10 +159,10 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
-              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
+              <h1 className="text-xl font-bold text-gray-100 tracking-wider pointer-events-none">
                 Mugna Website Prototype
               </h1>
-              <p className="text-sm text-gray-100 tracking-wider">
+              <p className="text-sm text-gray-100 tracking-wider pointer-events-none">
                 Latest prototype of Mugna's website during my internship.
                 Features responsive design. Created in Figma and originally
                 exported to Webflow.
@@ -185,10 +185,10 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
-              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
+              <h1 className="text-xl font-bold text-gray-100 tracking-wider pointer-events-none">
                 Mugna Solution Prototype
               </h1>
-              <p className="text-sm text-gray-100 tracking-wider">
+              <p className="text-sm text-gray-100 tracking-wider pointer-events-none">
                 Latest prototype of Mugna's solution, StellaHub, during my
                 internship. Meant for restaurant franchises. Created in Figma.
               </p>
@@ -210,10 +210,10 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
-              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
+              <h1 className="text-xl font-bold text-gray-100 tracking-wider pointer-events-none">
                 Mugna Website (Second Iteration)
               </h1>
-              <p className="text-sm text-gray-100 tracking-wider">
+              <p className="text-sm text-gray-100 tracking-wider pointer-events-none">
                 Second prototype of Mugna's website during my internship.
                 Features responsive design. Created in Figma and originally
                 exported to Webflow.
@@ -236,10 +236,10 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
           >
             <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
-              <h1 className="text-xl font-bold text-gray-100 tracking-wider">
+              <h1 className="text-xl font-bold text-gray-100 tracking-wider pointer-events-none">
                 Mugna Website (First Iteration)
               </h1>
-              <p className="text-sm text-gray-100 tracking-wider">
+              <p className="text-sm text-gray-100 tracking-wider pointer-events-none">
                 First prototype of Mugna's website during my internship. Created
                 in Figma.
               </p>
