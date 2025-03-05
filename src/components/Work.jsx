@@ -8,6 +8,7 @@ import mugnaweblatest from "../assets/MugnaWebsiteLatest.png";
 import mugnawebsecond from "../assets/MugnaWebsiteSecond.png";
 import mugnawebfirst from "../assets/MugnaWebsiteFirst.png";
 import mugnastellahub from "../assets/MugnaStellaHub.png";
+import imSummit2025 from "../assets/IMSummit2025.png";
 
 const Work = () => {
   return (
@@ -251,6 +252,31 @@ const Work = () => {
                 >
                   <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
                     Figma
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${imSummit2025})` }} // Need to change max-width
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto text-center content-div h-60"
+          >
+            <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-200 p-3">
+              <h1 className="text-xl font-bold text-gray-100 tracking-wider pointer-events-none">
+                IM Summit Website (2025)
+              </h1>
+              <p className="text-sm text-gray-100 tracking-wider pointer-events-none">
+                Website I helped develop for IM Summit, the flagship event of
+                Ateneo Management Information Systems Association (MISA)
+              </p>
+              <div className="pt-2">
+                <a
+                  href="https://imsummit2025.misa.org.ph"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
+                    Website
                   </button>
                 </a>
               </div>
