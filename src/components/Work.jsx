@@ -9,6 +9,7 @@ import mugnawebsecond from "../assets/MugnaWebsiteSecond.png";
 import mugnawebfirst from "../assets/MugnaWebsiteFirst.png";
 import mugnastellahub from "../assets/MugnaStellaHub.png";
 import imSummit2025 from "../assets/IMSummit2025.png";
+import "../index.css";
 
 const Work = () => {
   return (
