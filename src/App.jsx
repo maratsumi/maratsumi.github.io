@@ -14,12 +14,11 @@ function App() {
         <Navbar />
         <Home />
         <About />
-        <Work />
         <Works />
         <Socials />
         <footer
           className="bg-[#1f2429] text-gray-200 pl-1 text-sm"
-          unselectable="on"
+          unselectable=""
         >
           Angelo Vitug © 2025
         </footer>
