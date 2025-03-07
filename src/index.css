@@ -31,3 +31,7 @@ body {
     rgb(107, 194, 200)
   ) !important;
 }
+
+#cardContent:hover {
+  opacity: 1 !important;
+}

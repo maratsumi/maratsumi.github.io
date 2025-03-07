@@ -10,7 +10,10 @@ function Work_Cards({ item }) {
               style={{ backgroundImage: `url(${val.img})` }}
               className="group h-60 hover:scale-105 transition ease-out duration-250 shadow-lg shadow-[#040c16] rounded-md flex justify-center items-start mx-auto text-center bg-no-repeat bg-cover bg-center content-div"
             >
-              <div className="opacity-0 group-hover:opacity-100 transition ease-in duration-150 p-3 m-auto">
+              <div
+                id="cardContent"
+                className="opacity-0 transition ease-in duration-150 p-3 m-auto"
+              >
                 <h1 className="text-xl font-bold text-gray-100 tracking-wider pointer-events-none">
                   {val.title}
                 </h1>
