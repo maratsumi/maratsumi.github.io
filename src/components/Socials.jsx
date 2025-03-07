@@ -7,7 +7,7 @@ const Socials = () => {
   return (
     <div name="socials" className="w-full h-full bg-[#1f2429] text-gray-100">
       <div>
-        <div className="max-w-[1080px] mx-auto p-5 flex flex-col justify-center w-full h-full">
+        <div className="max-w-[1150px] mx-auto p-5 flex flex-col justify-center w-full h-full">
           <div className="pb-8">
             <h1 className="text-4xl font-bold inline border-b-4 border-[#e98adf]">
               Contact Me
