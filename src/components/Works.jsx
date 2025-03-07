@@ -12,7 +12,7 @@ const Works = () => {
   };
   return (
     <>
-      <div className="w-full h-full text-gray-100 bg-[#1d2126]">
+      <div name="works" className="w-full h-full text-gray-100 bg-[#1d2126]">
         <div className="max-w-[1150px] mx-auto p-6 flex flex-col justify-center w-full h-full">
           <div className="pb-8">
             <h1 className="text-4xl font-bold inline border-b-4 border-[#e98adf]">

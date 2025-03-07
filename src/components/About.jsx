@@ -75,7 +75,7 @@ const About = () => {
           <div className="text-left flex text-2xl font-bold sm:hidden pointer-events-none">
             <ul className="about-list">
               <li className="flex mx-auto items-end justify-start py-1">
-                Languages:
+                Technical Skills:
               </li>
               <li className="flex mx-auto items-end justify-start">
                 <FaJava className="mr-3" />
