@@ -11,7 +11,7 @@ const Home = () => {
           Angelo Vitug
         </h1>
         <h2 className="text-[#fcbbd3] text-xl sm:text-xl font-bold text-center">
-          ~~ Programmer ~~
+          -- Software Developer --
         </h2>
         <div className="inline md:flex content-center items-center pointer-events-none">
           <img
@@ -20,10 +20,9 @@ const Home = () => {
             className="w-56 mx-auto md:w-72 h-auto rounded-3xl pt-2 md:pb-2"
           />
           <p className="text-gray-100 text-base text-justify px-3 sm:text-xl py-6 sm:px-10 max-w-full sm:text-left">
-            Hello, I'm Angelo Vitug! I am a programming student who strives to
-            become a software developer. Driven by the passion to constantly
-            learn and solve problems, I want to put my critical thinking and
-            logical reasoning skills to great use.
+            Aspiring software developer driven by the passion to constantly
+            learn and solve problems. Seeking to make a social impact through
+            information technology and software that empowers users.
           </p>
         </div>
         <div className="flex mx-auto items-end">

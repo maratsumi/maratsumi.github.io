@@ -8,7 +8,7 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className="fixed z-10 w-full h-[60px] flex justify-between items-center px-5 bg-[#1a1d20] text-gray-200">
+    <div className="fixed z-10 w-screen h-[60px] flex justify-between items-center px-5 bg-[#1a1d20] text-gray-200">
       <div>
         <Link to="home" smooth={true} duration={500}>
           <div className="hover:rotate-12 transition ease-out duration-300 hover:text-pink-400">

@@ -1,5 +1,5 @@
 import React from "react";
-import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
+import { IoLogoHtml5, IoLogoCss3, IoLogoJavascript } from "react-icons/io";
 import { FaJava } from "react-icons/fa";
 import {
   SiCplusplus,
@@ -10,6 +10,7 @@ import {
   SiMysql,
   SiPhp,
   SiPython,
+  SiJavascript,
 } from "react-icons/si";
 import { BsPlus } from "react-icons/bs";
 
@@ -35,15 +36,15 @@ const About = () => {
                 <FaJava className="ml-3" />
               </li>
               <li className="flex mx-auto items-end justify-end py-1">
-                HTML & CSS
-                <IoLogoHtml5 className="ml-3" /> <BsPlus /> <IoLogoCss3 />
+                JavaScript
+                <SiJavascript className="ml-3" />
               </li>
               <li className="flex mx-auto items-end justify-end py-1">
                 jQuery
                 <SiJquery className="ml-3" />
               </li>
               <li className="flex mx-auto items-end justify-end py-1">
-                Tailwind
+                TailwindCSS
                 <SiTailwindcss className="ml-3" />
               </li>
               <li className="flex mx-auto items-end justify-end py-1">
@@ -75,15 +76,15 @@ const About = () => {
           <div className="text-left flex text-2xl font-bold sm:hidden pointer-events-none">
             <ul className="about-list">
               <li className="flex mx-auto items-end justify-start py-1">
-                Languages:
+                Technical Skills:
               </li>
               <li className="flex mx-auto items-end justify-start">
                 <FaJava className="mr-3" />
                 Java
               </li>
               <li className="flex mx-auto items-end justify-start">
-                <IoLogoHtml5 /> <BsPlus /> <IoLogoCss3 className="mr-3" />
-                HTML + CSS
+                <SiJavascript className="mr-3" />
+                JavaScript
               </li>
               <li className="flex mx-auto items-end justify-start">
                 <SiTailwindcss className="mr-3" />
