@@ -1,7 +1,6 @@
 import About from "./components/About";
 import Home from "./components/Home";
 import Socials from "./components/Socials";
-import Work from "./components/Work";
 import Navbar from "./components/Navbar";
 import Works from "./components/Works";
 import "./App.css";
