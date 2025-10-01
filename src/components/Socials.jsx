@@ -32,7 +32,7 @@ const Socials = () => {
                 size={70}
                 className="mx-auto mb-2 hover:scale-110 transition ease-out duration-500"
               />
-              <h1 className="text-gray-300 pt-2 text-sm sm:text-base">
+              <h1 className="text-gray-300 pt-2 text-xs sm:text-sm">
                 angelovitug17@gmail.com
               </h1>
             </div>
