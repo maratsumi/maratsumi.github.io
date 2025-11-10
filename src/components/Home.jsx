@@ -20,9 +20,9 @@ const Home = () => {
             className="w-56 mx-auto md:w-72 h-auto rounded-3xl pt-2 md:pb-2"
           />
           <p className="text-gray-100 text-base text-justify px-3 sm:text-xl py-6 sm:px-10 max-w-full sm:text-left">
-            Aspiring software developer driven by the passion to constantly
-            learn and solve problems. Seeking to make a social impact through
-            information technology and software that empowers users.
+            Software developer driven by the passion to constantly learn and
+            solve problems. Seeking to make a social impact through information
+            technology and software that empowers users.
           </p>
         </div>
         <div className="flex mx-auto items-end">
