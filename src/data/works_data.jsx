@@ -91,6 +91,14 @@ export const works_data = [
     desc: "Website I helped develop for IM Summit, the flagship event of the Ateneo Management Information Systems Association (MISA)",
     link: "https://imsummit2025.misa.org.ph",
   },
+  {
+    id: "11",
+    title: "Employee System (Python)",
+    category: "Program",
+    img: studentInfoSys,
+    desc: "Simple employee system I developed as a final project during S.Y. 2024-2025, using Python Pandas and Tkinter",
+    link: "https://github.com/maratsumi/Python-Employee-System",
+  },
 ];
 
 export default works_data;
