@@ -8,19 +8,19 @@ function Work_Cards({ item }) {
           <div key={val.id}>
             <div
               style={{ backgroundImage: `url(${val.img})` }}
-              className="group h-60 hover:scale-105 transition ease-out duration-250 shadow-lg shadow-[#040c16] rounded-md flex justify-center items-start mx-auto text-center bg-no-repeat bg-cover bg-center content-div"
+              className="group h-60 hover:scale-105 transition ease-out duration-250 shadow-lg shadow-[#040c16] rounded-md flex justify-center items-center mx-auto text-center bg-no-repeat bg-cover bg-center content-div"
             >
               <div
                 id="cardContent"
-                className="opacity-0 transition ease-in duration-150 p-3 m-auto"
+                className="opacity-0 group-hover:opacity-100 transition ease-in duration-150 p-3 flex flex-col justify-center items-center text-center"
               >
-                <h1 className="text-xl font-bold text-gray-100 tracking-wider pointer-events-none">
+                <h1 className="text-xl font-bold text-gray-100 tracking-wider">
                   {val.title}
                 </h1>
-                <p className="text-sm text-gray-100 tracking-wider pointer-events-none">
+                <p className="text-sm text-gray-100 tracking-wider">
                   {val.desc}
                 </p>
-                <div className="pt-2">
+                <div className="pt-2 items-end">
                   <a href={val.link} target="_blank" rel="noreferrer">
                     <button className="rounded-2xl border-2 border-gray-100 px-6 py-1 hover:bg-gray-100 hover:text-slate-800 hover:bg-opacity-90 hover:shadow-sm transition ease-in-out duration-150">
                       {val.category}

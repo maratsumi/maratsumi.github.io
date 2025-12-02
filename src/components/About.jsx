@@ -1,5 +1,4 @@
 import React from "react";
-import { IoLogoHtml5, IoLogoCss3, IoLogoJavascript } from "react-icons/io";
 import { FaJava } from "react-icons/fa";
 import {
   SiCplusplus,
@@ -40,16 +39,8 @@ const About = () => {
                 <SiJavascript className="ml-3" />
               </li>
               <li className="flex mx-auto items-end justify-end py-1">
-                jQuery
-                <SiJquery className="ml-3" />
-              </li>
-              <li className="flex mx-auto items-end justify-end py-1">
                 TailwindCSS
                 <SiTailwindcss className="ml-3" />
-              </li>
-              <li className="flex mx-auto items-end justify-end py-1">
-                Bootstrap
-                <SiBootstrap className="ml-3" />
               </li>
               <li className="flex mx-auto items-end justify-end py-1">
                 Python
@@ -71,6 +62,14 @@ const About = () => {
                 C++
                 <SiCplusplus className="ml-3" />
               </li>
+              <li className="flex mx-auto items-end justify-end py-1">
+                jQuery
+                <SiJquery className="ml-3" />
+              </li>
+              <li className="flex mx-auto items-end justify-end py-1">
+                Bootstrap
+                <SiBootstrap className="ml-3" />
+              </li>
             </ul>
           </div>
           <div className="text-left flex text-2xl font-bold sm:hidden pointer-events-none">
@@ -88,7 +87,7 @@ const About = () => {
               </li>
               <li className="flex mx-auto items-end justify-start">
                 <SiTailwindcss className="mr-3" />
-                Tailwind
+                TailwindCSS
               </li>
               <li className="flex mx-auto items-end justify-start">
                 <SiPython className="mr-3" />
@@ -122,7 +121,15 @@ const About = () => {
               </li>
               <li className="flex mx-auto sm:items-end items-center justify-start">
                 <BsPlus className="mr-1" />
-                Time Management
+                Teamwork
+              </li>
+              <li className="flex mx-auto sm:items-end items-center justify-start">
+                <BsPlus className="mr-1" />
+                Adaptability
+              </li>
+              <li className="flex mx-auto sm:items-end items-center justify-start">
+                <BsPlus className="mr-1" />
+                Innovation
               </li>
               <li className="flex mx-auto sm:items-end items-center justify-start">
                 <BsPlus className="mr-1" />
@@ -134,15 +141,7 @@ const About = () => {
               </li>
               <li className="flex mx-auto sm:items-end items-center justify-start">
                 <BsPlus className="mr-1" />
-                Teamwork
-              </li>
-              <li className="flex mx-auto sm:items-end items-center justify-start">
-                <BsPlus className="mr-1" />
-                Flexibility
-              </li>
-              <li className="flex mx-auto sm:items-end items-center justify-start">
-                <BsPlus className="mr-1" />
-                Self-management
+                Time Management
               </li>
             </ul>
           </div>
